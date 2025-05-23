@@ -12,15 +12,7 @@
 </Property>
 	<Item Name="Modules" Type="Folder">
 		<Item Name="Module Template" Type="Folder">
-			<Item Name="SubVIs" Type="Folder">
-				<Item Name="Module Template SM.vi" Type="VI" URL="../SubVIs/Module Template SM.vi">
-					<Property Name="NI.LibItem.Scope" Type="Int">4</Property>
-				</Item>
-			</Item>
-			<Item Name="Typedefs" Type="Folder">
-				<Item Name="Config.ctl" Type="VI" URL="../Modules/Module Template/Typedefs/Config.ctl"/>
-				<Item Name="State Machine Data.ctl" Type="VI" URL="../Typedefs/State Machine Data.ctl"/>
-			</Item>
+			<Item Name="Module Template.lvlib" Type="Library" URL="../Modules/Module Template/Module Template.lvlib"/>
 		</Item>
 	</Item>
 	<Item Name="SubVIs" Type="Folder">
