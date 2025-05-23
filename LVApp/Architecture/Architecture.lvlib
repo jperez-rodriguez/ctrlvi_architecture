@@ -38,7 +38,7 @@
 			<Item Name="Run VI Asynchronously.vi" Type="VI" URL="../SubVIs/Run VI Asynchronously.vi"/>
 		</Item>
 		<Item Name="Public API" Type="Folder">
-			<Property Name="NI.LibItem.Scope" Type="Int">4</Property>
+			<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
 			<Item Name="Dequeue Local Message.vi" Type="VI" URL="../SubVIs/Dequeue Local Message.vi"/>
 			<Item Name="Enqueue Local Message.vi" Type="VI" URL="../SubVIs/Enqueue Local Message.vi"/>
 			<Item Name="Extract Synchronous Data.vi" Type="VI" URL="../SubVIs/Extract Synchronous Data.vi"/>
