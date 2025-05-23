@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2020.1" Created_Date="2025-05-22 19:40:42" Modified_Date="2025-05-22 19:50:39" Creator="poche" Comments="" ID="8c5a15eb2e92184cd8f2de489c9a4491">
+<VI_Package_Builder_Settings Version="2020.1" Created_Date="2025-05-22 19:40:42" Modified_Date="2025-05-23 20:21:40" Creator="poche" Comments="" ID="b625c4877520b2ddb0340f237c3f218e">
   <Library_General_Settings>
     <Package_File_Name>Ctrl_VI_Studios®_lib_Ctrl_VI_Architecture</Package_File_Name>
-    <Library_Version>1.0.0.2</Library_Version>
+    <Library_Version>1.0.0.3</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>..\LVApp\Architecture</Library_Source_Folder>
     <Library_Output_Folder>..\Builds</Library_Output_Folder>
@@ -48,15 +48,7 @@ This structure enables decoupled development, clean inter-module communication, 
 
 Features:
 
-Application launcher and reusable module templates.
-
-Local message queue system per module for independent message handling.
-
-Unified event handler combining UI events and inter-module messages.
-
-Integrated error logging using the Rotational Error Logger Toolkit.
-
-This release offers a ready-to-use base architecture for developing modular, maintainable, and scalable LabVIEW applications.</Release_Notes>
+Fix bug access scope public api.</Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>
@@ -135,9 +127,6 @@ This release offers a ready-to-use base architecture for developing modular, mai
         <Namespace_Type>Prefix</Namespace_Type>
         <Namespace/>
       </Namespace_Overrides>
-      <Compile_Exclusions>
-        <Path/>
-      </Compile_Exclusions>
       <Place_Folder_Contents>
         <Path/>
       </Place_Folder_Contents>
@@ -269,7 +258,7 @@ This release offers a ready-to-use base architecture for developing modular, mai
         <Path>..\LVApp\Architecture\Launcher Template (Top Level VI).vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>E12D4696AC34EA1C887AC696A9D8BA6F</GUID>
+      <GUID>3D0BD686315A9465435E8AB93ADAE5AF</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -304,7 +293,7 @@ This release offers a ready-to-use base architecture for developing modular, mai
         <Path>..\LVApp\Architecture\Modules\Module Template</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>26D018BE8FF954108FC38837C3491CE9</GUID>
+      <GUID>E9D06C20E50FBD727202DED5E2F1240F</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -465,7 +454,7 @@ This release offers a ready-to-use base architecture for developing modular, mai
         <Path>..\LVApp\Architecture\SubVIs\Poly App Configuraton Extractor API.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>99E925A124F07C7117E475B4A757DB40</GUID>
+      <GUID>07C96927208CCC9F2919152BD09FAFC4</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -500,7 +489,7 @@ This release offers a ready-to-use base architecture for developing modular, mai
         <Path>..\LVApp\Architecture\Modules\Module Template\SubVIs</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>ABAF7C5CE849AB550C2B054F3AC8071E</GUID>
+      <GUID>8BCEB49CF3A664E9EE163F0B0F28BEEA</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>3</Parent_Palette_Index>
@@ -535,7 +524,7 @@ This release offers a ready-to-use base architecture for developing modular, mai
         <Path>..\LVApp\Architecture\Modules\Module Template\SubVIs\Module Template Configuraton Extractor API.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>4AD7D6EC5E31F8FC89A8F04B0CE68DE2</GUID>
+      <GUID>37AD29164FC3EB95B198B0BFD6AD2C74</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
