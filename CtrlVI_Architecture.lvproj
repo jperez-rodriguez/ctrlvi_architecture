@@ -26,6 +26,9 @@
 			<Item Name="Configuration.lvlib" Type="Library" URL="../LVApp/Architecture/Modules/Configuration/Configuration.lvlib"/>
 			<Item Name="Module Template.lvlib" Type="Library" URL="../LVApp/Architecture/Modules/Module Template/Module Template.lvlib"/>
 		</Item>
+		<Item Name="Utilities" Type="Folder">
+			<Item Name="Modify Config Templates.vi" Type="VI" URL="../LVApp/Utilities/Modify Config Templates.vi"/>
+		</Item>
 		<Item Name="Architecture.lvlib" Type="Library" URL="../LVApp/Architecture/Architecture.lvlib"/>
 		<Item Name="Launcher Template (Top Level VI).vi" Type="VI" URL="../LVApp/Architecture/Launcher Template (Top Level VI).vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
@@ -38,6 +41,8 @@
 				<Item Name="NI_FileType.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/lvfile.llb/NI_FileType.lvlib"/>
 				<Item Name="NI_PackedLibraryUtility.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/LVLibp/NI_PackedLibraryUtility.lvlib"/>
 				<Item Name="usereventprio.ctl" Type="VI" URL="/&lt;vilib&gt;/event_ctls.llb/usereventprio.ctl"/>
+				<Item Name="System Directory Type.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/sysdir.llb/System Directory Type.ctl"/>
+				<Item Name="Get System Directory.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/sysdir.llb/Get System Directory.vi"/>
 			</Item>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
