@@ -25,6 +25,7 @@
 		<Item Name="Modules" Type="Folder">
 			<Item Name="Configuration.lvlib" Type="Library" URL="../LVApp/Architecture/Modules/Configuration/Configuration.lvlib"/>
 			<Item Name="Module Template.lvlib" Type="Library" URL="../LVApp/Architecture/Modules/Module Template/Module Template.lvlib"/>
+			<Item Name="Core UI.lvlib" Type="Library" URL="../LVApp/Architecture/Modules/Core UI/Core UI.lvlib"/>
 		</Item>
 		<Item Name="Utilities" Type="Folder">
 			<Item Name="Modify Config Templates.vi" Type="VI" URL="../LVApp/Utilities/Modify Config Templates.vi"/>

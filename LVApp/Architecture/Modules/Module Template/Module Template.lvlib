@@ -16,5 +16,5 @@
 		<Item Name="Config.ctl" Type="VI" URL="../Typedefs/Config.ctl"/>
 		<Item Name="State Machine Data.ctl" Type="VI" URL="../../../Typedefs/State Machine Data.ctl"/>
 	</Item>
-	<Item Name="Module Template SM.vi" Type="VI" URL="../SubVIs/Module Template SM.vi"/>
+	<Item Name="Main.vi" Type="VI" URL="../SubVIs/Main.vi"/>
 </Library>
