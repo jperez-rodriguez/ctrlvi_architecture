@@ -1,0 +1,54 @@
+# CtrlViStudios Architecture Project Template
+
+## Overview
+
+This repository contains the **CtrlViStudios Architecture Project Template** for LabVIEW. It is designed to streamline the creation of modular, scalable, and reusable LabVIEW applications by providing a robust and pre-configured architecture.
+
+---
+
+## Installation Instructions
+
+Follow the steps below to install and configure the project template:
+
+### 1. Install the Project Template
+
+- Locate the `.vip` file for the **CtrlViStudios Architecture Project Template**.
+- Open **VI Package Manager (VIPM)**.
+- Install the `.vip` file using VIPM.
+
+> This will register the template as a selectable option in LabVIEW's "Create Project" dialog.
+
+---
+
+### 2. Configure the Template
+
+- Navigate to the following path inside the project files:
+
+Project Folder/Builds/Project Template Config App
+
+
+- Run the executable:
+
+Change Templates Config.exe
+
+
+> This tool allows you to personalize and finalize the setup of the project template for your environment.
+
+---
+
+## Developed by
+
+**Developer:** [jperez_rodriguez]  
+**Company:** CtrlViStudios  
+**Contact:** [support@ctrlvistudios.es]
+
+---
+
+## Notes
+
+- Ensure LabVIEW and VIPM are installed on your system before starting.
+- If you encounter any issues, feel free to open an issue or contact the developer.
+
+---
+
+© CtrlViStudios. All rights reserved.

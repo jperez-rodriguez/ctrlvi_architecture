@@ -1,4 +1,4 @@
-<VI_Package_Builder_Settings Version="2020.1" Created_Date="2025-05-22 19:40:42" Modified_Date="2025-05-24 11:04:49" Creator="poche" Comments="" ID="f012d21bd2490f292a5dbe8158281c79">
+<VI_Package_Builder_Settings Version="2020.1" Created_Date="2025-06-02 20:03:43" Modified_Date="2025-06-02 20:03:43" Creator="poche" Comments="" ID="ac8a9cde6eb57bfdd9a9c10b705c5792">
   <Library_General_Settings>
     <Package_File_Name>Ctrl_VI_Studios®_lib_Ctrl_VI_Architecture</Package_File_Name>
     <Library_Version>1.0.0.11</Library_Version>
@@ -224,7 +224,7 @@ This structure enables decoupled development, clean inter-module communication, 
         <Path>..\LVApp</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>900355F9566E3DEFEAB062C44A9F055C</GUID>
+      <GUID>D24CE0C8ED0CCC9EE5BC1FA5212D6B54</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -259,7 +259,7 @@ This structure enables decoupled development, clean inter-module communication, 
         <Path>..\LVApp\Architecture</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>8D5701AB3B63A256053A00EFBCD813BB</GUID>
+      <GUID>F2020ADC3B61301AB68194DD5ABF6765</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -322,7 +322,7 @@ This structure enables decoupled development, clean inter-module communication, 
         <Path>..\LVApp\Architecture\Launcher Template (Top Level VI).vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>64C30EC17C77571AAEBE314A5C768DBF</GUID>
+      <GUID>3C34F1FD8CBC1C00976A647E68B74B8E</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>2</Parent_Palette_Index>
@@ -371,7 +371,7 @@ This structure enables decoupled development, clean inter-module communication, 
         <Path>..\LVApp\Architecture\Modules\Module Template</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>263EF2433F569156AAC3E72E00342B2E</GUID>
+      <GUID>A062C435E1B52307B9ED72EE5286B048</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>2</Parent_Palette_Index>
@@ -549,20 +549,6 @@ This structure enables decoupled development, clean inter-module communication, 
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>Poly App Configuraton Extractor API.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>2</Row>
-          <Column>6</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\LVApp\Architecture\SubVIs\Poly App Configuraton Extractor API.vi</Path>
-        <VI_Title/>
-      </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
         <NameSub_Menu_Name>Read Configuration API.vi</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
@@ -630,7 +616,7 @@ This structure enables decoupled development, clean inter-module communication, 
         <Path>..\LVApp\Architecture\SubVIs\Send Message Modules.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>F8A0FD114EDEFBD08D77941290FB55F0</GUID>
+      <GUID>28783968DAAC195BD7EAB3D0B6F2D002</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>3</Parent_Palette_Index>
@@ -679,7 +665,7 @@ This structure enables decoupled development, clean inter-module communication, 
         <Path>..\LVApp\Architecture\Modules\Configuration\Main Config.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>A772FDCCC49AE8F1E81C42B1F6D02A3C</GUID>
+      <GUID>3B603722A59A86B9F1E61EB3A3E24305</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>3</Parent_Palette_Index>
@@ -714,7 +700,7 @@ This structure enables decoupled development, clean inter-module communication, 
         <Path>..\LVApp\Architecture\Modules\Module Template\SubVIs</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>2D0522566D49D65A867F8DBE756536CB</GUID>
+      <GUID>6E1CE69FE027F69FE24B4E1A262DE0A7</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>5</Parent_Palette_Index>
@@ -749,7 +735,7 @@ This structure enables decoupled development, clean inter-module communication, 
         <Path>..\LVApp\Architecture\Modules\Configuration\SubVIs\Load Config Application.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>38CAD7DE2E856F82FD608904646DBD37</GUID>
+      <GUID>23E6781D645221709A753552D5BEC121</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>6</Parent_Palette_Index>
@@ -784,21 +770,7 @@ This structure enables decoupled development, clean inter-module communication, 
         <Path>..\LVApp\Architecture\Modules\Module Template\SubVIs\Module Template Configuraton Extractor API.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <Items_Data>
-        <Type>Item</Type>
-        <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>Module Template SM.vi</NameSub_Menu_Name>
-        <Short_Name/>
-        <is_Merge_VI>false</is_Merge_VI>
-        <Position>
-          <Row>1</Row>
-          <Column>2</Column>
-        </Position>
-        <Icon>00000000</Icon>
-        <Path>..\LVApp\Architecture\Modules\Module Template\SubVIs\Module Template SM.vi</Path>
-        <VI_Title/>
-      </Items_Data>
-      <GUID>381461984F5637709993C43982EF0CCE</GUID>
+      <GUID>52A5B7B3D09247245499CEAF6AFCA5D8</GUID>
     </Functions_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>-1</Parent_Palette_Index>
@@ -833,7 +805,7 @@ This structure enables decoupled development, clean inter-module communication, 
         <Path>..\LVApp</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>2108A83CD67246CEEAFB194F957F3CEE</GUID>
+      <GUID>B1E1311ED1C23E8ED36AABAA124DDAB2</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -868,7 +840,7 @@ This structure enables decoupled development, clean inter-module communication, 
         <Path>..\LVApp\Architecture</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>9AF7882DD126B14CAA2D2666D3593C84</GUID>
+      <GUID>D73F7D5098403E3906387DBD0006E7DB</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -917,7 +889,7 @@ This structure enables decoupled development, clean inter-module communication, 
         <Path>..\LVApp\Architecture\Typedefs</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>EC734E659130D35192A65D7ADC78B581</GUID>
+      <GUID>1C83542F1E1F41CCEFAF42C3C3B3C69F</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>2</Parent_Palette_Index>
@@ -966,7 +938,7 @@ This structure enables decoupled development, clean inter-module communication, 
         <Path>..\LVApp\Architecture\Modules\Module Template</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>1446A60E5BEAB0324A185EFA1EF0273A</GUID>
+      <GUID>0327CF4AD321972FD542A7111822BC5B</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>2</Parent_Palette_Index>
@@ -1085,7 +1057,7 @@ This structure enables decoupled development, clean inter-module communication, 
         <Path>..\LVApp\Architecture\Typedefs\Synchronous Data.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>B248AE6696F6037C0846AFBAB4FE987C</GUID>
+      <GUID>B11CCAA7008D96179666EF2F52FB3B23</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>3</Parent_Palette_Index>
@@ -1120,7 +1092,7 @@ This structure enables decoupled development, clean inter-module communication, 
         <Path>..\LVApp\Architecture\Modules\Configuration\Typedefs</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>96C284A8D4FAFC30CB96CA6014780308</GUID>
+      <GUID>0E0185AE1FED811F62BB7B3579B3F440</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>3</Parent_Palette_Index>
@@ -1155,7 +1127,7 @@ This structure enables decoupled development, clean inter-module communication, 
         <Path>..\LVApp\Architecture\Modules\Module Template\Typedefs</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>960EDD4859C4F317C5DE4262F7C6816B</GUID>
+      <GUID>68104BCAEB6DFC3194D9AAAC1F96FD29</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>5</Parent_Palette_Index>
@@ -1190,7 +1162,7 @@ This structure enables decoupled development, clean inter-module communication, 
         <Path>..\LVApp\Architecture\Modules\Configuration\Typedefs\SM Data.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>07579E6FDE9CE31A1D8379ABB10DBD21</GUID>
+      <GUID>B67EB97E2ADE78F172051909BFEA4D4D</GUID>
     </Controls_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>6</Parent_Palette_Index>
@@ -1225,7 +1197,7 @@ This structure enables decoupled development, clean inter-module communication, 
         <Path>..\LVApp\Architecture\Modules\Module Template\Typedefs\Config.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>BDC16E27AFE7A23A8A47DF414DFB712E</GUID>
+      <GUID>5E38CD18E1969A0D14DEDEAB48F6AE37</GUID>
     </Controls_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
